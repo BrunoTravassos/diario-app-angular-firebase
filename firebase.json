@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/test",
+    "public": "dist/diario-app",
     "ignore": [
       "firebase.json",
       "**/.*",
